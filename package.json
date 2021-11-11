@@ -9,16 +9,20 @@
   "main": "src/index.js",
   "dependencies": {
     "@usedapp/core": "0.5.4",
+    "create-react-app": "^4.0.3",
+    "dotenv": "^10.0.0",
     "ethers": "5.5.1",
     "ethesci": "1.0.2",
     "node-sass": "6.0.1",
     "react": "17.0.2",
     "react-bootstrap": "2.0.2",
+    "react-dev-utils": "*",
     "react-dom": "17.0.2",
     "react-icons": "4.3.1",
     "react-pro-sidebar": "0.7.1",
     "react-scripts": "4.0.0",
-    "usedapp": "1.0.0"
+    "usedapp": "1.0.0",
+    "webpack": "4.44.2"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
