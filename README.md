@@ -1,2 +1,7 @@
-# A demo app
-Test application in React.js
+# NFT Interactions
+## Usage
+```
+yarn 
+yarn start
+```
+
