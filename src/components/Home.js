@@ -10,7 +10,8 @@ export default class Home extends React.Component {
     };
     this.account = this.account.bind(this);
   }
-  account(a) {
+  async account(a) {
+    await a;
     this.setState({
       content: <NFTInfo address={a} />
     });

@@ -9,6 +9,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@usedapp/core": "0.5.4",
+    "axios": "^0.24.0",
     "create-react-app": "^4.0.3",
     "dotenv": "^10.0.0",
     "ethers": "5.5.1",
